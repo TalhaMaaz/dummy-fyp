@@ -1,3 +1,3 @@
 FROM nginx:alpine
-RUN echo "<h1>Chronos Preview: Build Success!</h1>" > /usr/share/nginx/html/index.html
+RUN echo "<h1>asdasdasdasd</h1>" > /usr/share/nginx/html/index.html
 
